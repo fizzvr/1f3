@@ -1,9 +1,9 @@
 {
     "gitbook": ">=2.0.0",
-    "title": "1F1",
+    "title": "1f3",
     "description": "CreateJS. Juegos interactivos con HTML5",
     "language": "es",
-    "githubId": "fizzvr/1F1",
+    "githubId": "fizzvr/1f3",
     "username": "fizzvr",
     "name": "Vladimir Rodríguez",
     "urls.profile": "http://github.com/fizzvr",
@@ -17,10 +17,10 @@
     },
     "pluginsConfig": {
         "github": {
-          "url": "https://github.com/fizzvr/1F1"
+          "url": "https://github.com/fizzvr/1f3"
         },
         "github-buttons": {
-          "repo": "fizzvr/1F1",
+          "repo": "fizzvr/1f3",
           "types": [
             "follow"
           ],
