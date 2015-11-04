@@ -9,6 +9,6 @@
    * [Hola Mundo](1/1.5.md)
    * [Create.Js, Jquery y otras librerías](1/1.6.md)
    * [Create.js Documentación](1/1.7.md)
-* [Principios básicos de CreateJS](2/principios_basicos_de_createjs.md)
+* [Principios básicos de CreateJS](2/2.md)
    * [Principales componentes de CreateJS](2/2.1.md)
 
