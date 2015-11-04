@@ -1,2 +1,0 @@
-<!-- toc -->
-principios basicos
