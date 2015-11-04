@@ -8,6 +8,7 @@
    * [¿Qué es Create.js?](1/1.4.md)
    * [Hola Mundo](1/1.5.md)
    * [Create.Js, Jquery y otras librerías](1/1.6.md)
+   * Create.js Documentación
 * [Principios básicos de CreateJS](2/principios_basicos_de_createjs.md)
    * [Componentes](2/componentes.md)
 
