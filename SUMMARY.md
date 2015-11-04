@@ -11,5 +11,5 @@
    * [Create.js Documentación](1/1.7.md)
 * [Principios básicos de CreateJS](2/2.md)
    * [Principales componentes de CreateJS](2/2.1.md)
-   * Display list y DisplayObjects
+   * [Display list y DisplayObjects](2/2.2.md)
 
