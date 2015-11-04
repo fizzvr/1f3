@@ -10,7 +10,7 @@ Document Object Model - Modelo de Objetos del Documento
 
 ## GSAP
 
-Librería de alto rendimiento Ultra, animación de calidad profesional para la web moderna.
+GreenSock Animation Plataform - Librería de alto rendimiento Ultra, animación de calidad profesional para la web moderna.
 
 ## TypeScript
 
