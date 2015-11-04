@@ -10,5 +10,5 @@
    * [Create.Js, Jquery y otras librerías](1/1.6.md)
    * [Create.js Documentación](1/1.7.md)
 * [Principios básicos de CreateJS](2/principios_basicos_de_createjs.md)
-   * [Componentes](2/componentes.md)
+   * [Principales componentes de CreateJS](2/2.1.md)
 
