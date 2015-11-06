@@ -17,5 +17,5 @@
    * [Anidamiento y control de elementos hijos](2/2.5.md)
    * [Formas: Las clases Shape y Graphics](2/2.6.md)
    * [Imágenes: La clase Bitmap](2/2.7.md)
-   * Texto: La clase Text
+   * [Texto: La clase Text](2/2.8.md)
 
