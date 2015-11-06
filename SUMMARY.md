@@ -16,5 +16,5 @@
    * [El escenario: La clase Stage](2/2.4.md)
    * [Anidamiento y control de elementos hijos](2/2.5.md)
    * [Formas: Las clases Shape y Graphics](2/2.6.md)
-   * Imágenes: La clase Bitmap
+   * [Imágenes: La clase Bitmap](2/2.7.md)
 
