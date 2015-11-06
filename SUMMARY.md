@@ -14,4 +14,5 @@
    * [Display list y DisplayObjects](2/2.2.md)
    * [La clase container](2/2.3.md)
    * [El escenario: La clase Stage](2/2.4.md)
+   * Anidamiento y control de elementos hijos
 
