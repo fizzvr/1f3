@@ -13,4 +13,5 @@
    * [Principales componentes de CreateJS](2/2.1.md)
    * [Display list y DisplayObjects](2/2.2.md)
    * [La clase container](2/2.3.md)
+   * El escenario: La clase Stage
 
