@@ -20,4 +20,5 @@
    * [Texto: La clase Text](2/2.8.md)
    * [Sprite y SpriteSheets](2/2.9.md)
 * [Sistema de eventos con CreateJS](3/3.md)
+   * Eventos incluidos en CreateJS
 
