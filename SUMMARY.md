@@ -19,5 +19,5 @@
    * [Imágenes: La clase Bitmap](2/2.7.md)
    * [Texto: La clase Text](2/2.8.md)
    * [Sprite y SpriteSheets](2/2.9.md)
-* Sistema de Eventos en CreateJS
+* [Sistema de Eventos en CreateJS](3/3.md)
 
