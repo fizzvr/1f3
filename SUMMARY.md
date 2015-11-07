@@ -1,6 +1,7 @@
 # Summary
 
 * [Acerca de](README.md)
+   * Sistema de eventos de CreateJS
 * [Introducción a la creación de juegos con Create.js](1/1.md)
    * [Ventajas](1/1.1.md)
    * [¿Por qué juegos en HTML5 y Javascript?](1/1.2.md)
