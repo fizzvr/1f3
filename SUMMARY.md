@@ -21,5 +21,5 @@
    * [Sprite y SpriteSheets](2/2.9.md)
 * [Sistema de eventos con CreateJS](3/3.md)
    * [Eventos incluidos en CreateJS](3/3.1.md)
-   * Eventos de ratón
+   * [Eventos de ratón](3/3.2.md)
 
