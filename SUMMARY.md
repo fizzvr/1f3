@@ -28,4 +28,5 @@
 * [PreloadJS](4/4.md)
    * [¿Qué es PreloadJS?](4/4.1.md)
    * [Gestión de cargas en PreloadJS](4/4.2.md)
+   * Uso de Web Fonts
 
