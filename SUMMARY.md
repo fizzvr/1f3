@@ -27,4 +27,5 @@
    * [Crear un juego](3/3.5.md)
 * [PreloadJS](4/4.md)
    * [¿Qué es PreloadJS?](4/4.1.md)
+   * Gestión de cargas en PreloadJS
 
