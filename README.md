@@ -1,7 +1,7 @@
 Desarrollando proyectos V2B
 ================
 
-[![v2b](http://fizzvr.github.io/ivr/proyectos/gallery-img-497-full.jpg)](http://fizzvr.github.io/proyectos/createjs-497.html "Mirar presentación")
+[![v2b](http://fizzvr.github.io/ivr/proyectos/gallery-img-1f4-full.jpg)](http://fizzvr.github.io/proyectos/createjs-497.html "Mirar presentación")
 
 *Repositorio digital*
 
