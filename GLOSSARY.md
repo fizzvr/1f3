@@ -2,7 +2,7 @@
 
 ## CDN
 
-Content Delivery Network - Red de Entrega de Contenidos 
+Content Delivery Network - Red de Entrega de Contenidos
 
 ## DOM
 
@@ -19,3 +19,8 @@ Ofrece clases, módulos e interfaces para ayudarle a construir componentes robus
 ## Javascript
 
 Es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.
+
+## HTML5
+
+\(HyperText Markup Language, versión 5\) es la quinta revisión importante del lenguaje básico de la World Wide Web, HTML.
+
